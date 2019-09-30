@@ -1,0 +1,22 @@
+[
+    {
+        "title": "hacer tp ia", 
+        "description": "codificar y entrenar red neuronal para el tp",
+        "state": "ToDo"
+    },
+    {
+        "title": "hacer tp sgo", 
+        "description": "grabar video de presentacion para tp",
+        "state": "ToDo"
+    },
+    {
+        "title": "hacer una app con tareas", 
+        "description": "codificar y entrenar red neuronal para el tp",
+        "state": "Doing"
+    },
+    {
+        "title": "planos para redes", 
+        "description": "planos con cableado para redes",
+        "state": "Done"
+    }
+]
