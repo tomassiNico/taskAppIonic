@@ -12,7 +12,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { TareaComponent } from './components/tarea/tarea.component';
 
 @NgModule({
-  declarations: [AppComponent, TareaComponent],
+  declarations: [AppComponent],
   entryComponents: [],
   imports: [BrowserModule, IonicModule.forRoot(), AppRoutingModule, HttpClientModule],
   providers: [

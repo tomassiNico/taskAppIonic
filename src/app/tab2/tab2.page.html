@@ -8,6 +8,5 @@
 </ion-header>
 
 <ion-content>
-    Holas
-    <app-tarea></app-tarea>
+    <app-tarea [tarea]="tarea" *ngFor="let tarea of tareasService.tareas$ | async"></app-tarea>
 </ion-content>
